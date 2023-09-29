@@ -5,5 +5,4 @@ I will not be able to provide the datasets here
 
 There is also a python script that contains the silence removal script that has been adapted from (Chettri et al)
 
-There were other scripts that have now been lost such as the data balancing script, with the remaining time I have to submit,  I am unable to recreate it.
 
